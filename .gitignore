@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Downloaded and intermediate data (too large for git)
+data/raw/
+data/interim/
+
+# Exploratory files
+arcgis.csv
+postal_codes.ipynb
+
+# Python
+__pycache__/
+*.pyc
