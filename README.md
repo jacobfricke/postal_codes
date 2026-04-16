@@ -73,22 +73,26 @@ PLZ **06333** spans two districts (Landkreis Harz and Landkreis Mansfeld-Südhar
 
 ### BBSR district types
 
-| Code | German | English |
-|---|---|---|
-| 1 | Kreisfreie Großstadt | Major city (independent city) |
-| 2 | Städtischer Kreis | Urban district |
-| 3 | Ländlicher Kreis mit Verdichtungsansätzen | Rural district with some urban density |
-| 4 | Dünn besiedelter ländlicher Kreis | Sparsely populated rural district |
+The [BBSR Siedlungsstrukturelle Kreistypen](https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/deutschland/kreise/siedlungsstrukturelle-kreistypen/kreistypen.html) classify Germany's 400 districts into four categories. Population figures below are aggregated from this dataset.
+
+| Code | German | English | Population | Share |
+|---|---|---|---|---|
+| 1 | Kreisfreie Großstadt | Major city (independent city) | 24.6M | 29.7% |
+| 2 | Städtischer Kreis | Urban district | 32.1M | 38.8% |
+| 3 | Ländlicher Kreis mit Verdichtungsansätzen | Rural district with some urban density | 13.6M | 16.4% |
+| 4 | Dünn besiedelter ländlicher Kreis | Sparsely populated rural district | 12.6M | 15.2% |
 
 ### Thünen rurality types
 
-| Code | German | English |
-|---|---|---|
-| 1 | Sehr ländlich / weniger gute sozioökonomische Lage | Very rural / less favorable socioeconomic conditions |
-| 2 | Sehr ländlich / gute sozioökonomische Lage | Very rural / good socioeconomic conditions |
-| 3 | Eher ländlich / weniger gute sozioökonomische Lage | Rather rural / less favorable socioeconomic conditions |
-| 4 | Eher ländlich / gute sozioökonomische Lage | Rather rural / good socioeconomic conditions |
-| 5 | Nicht-ländlich | Non-rural |
+The [Thünen typology](https://literatur.thuenen.de/digbib_extern/dn057783.pdf) (Küpper 2016, Thünen Working Paper 68) combines a rurality dimension with a socioeconomic dimension into five types. The underlying data is available via the [Thünen Landatlas](https://www.landatlas.de/). Population figures below are aggregated from this dataset.
+
+| Code | German | English | Population | Share |
+|---|---|---|---|---|
+| 1 | Sehr ländlich / weniger gute sozioökonomische Lage | Very rural / less favorable socioeconomic conditions | 12.9M | 15.5% |
+| 2 | Sehr ländlich / gute sozioökonomische Lage | Very rural / good socioeconomic conditions | 9.1M | 10.9% |
+| 3 | Eher ländlich / weniger gute sozioökonomische Lage | Rather rural / less favorable socioeconomic conditions | 13.1M | 15.8% |
+| 4 | Eher ländlich / gute sozioökonomische Lage | Rather rural / good socioeconomic conditions | 11.8M | 14.2% |
+| 5 | Nicht-ländlich | Non-rural | 36.0M | 43.5% |
 
 ## Methodology
 
