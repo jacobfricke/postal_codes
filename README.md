@@ -29,7 +29,7 @@ plz = pd.read_csv("data/processed/plz_referenz.csv", dtype={"plz": str})
 
 ## What is in the table
 
-8,140 rows (one per PLZ), covering 82.6 million residents (99.9% of the 2022 Census total).
+8,182 rows (one per PLZ), covering 82.8 million residents (100.2% of the 2022 Census total, with minor double-counting from the 100m grid fallback).
 
 ### Example row
 
@@ -199,10 +199,28 @@ If you only want the data, clone the repo and use the files in `data/processed/`
 
 ## Known limitations
 
-- **30 missing PLZ.** The PLZ polygon dataset contains 8,170 polygons, but only 8,140 have at least one Census grid cell assigned. The remaining 30 are very small areas (single buildings, special-purpose PLZ) with no 1km grid cell midpoint falling inside them.
+- **19 PLZ without spatial population data.** 12 dissolved Thuringian localities and 7 micro-PLZ (Frankfurt skyscraper PLZ, special-purpose areas) have no polygon or no grid cell match. They receive classifications via a same-district proxy but have `einwohner = 0`.
 - **0.1% population not assigned.** About 97,000 people (out of 82.7 million) live in Census grid cells that fall outside all PLZ polygons, likely on islands, near borders, or in gaps between PLZ boundaries.
 - **PLZ boundaries are from 2023.** Deutsche Post does not publish official PLZ boundaries as open data. The polygons used here are derived from OpenStreetMap and were last updated in July 2023. Minor boundary changes since then are not reflected.
 - **Thünen index is from 2016.** The Thünen rurality index was published in 2016 based on data from 2011-2015. The five rurality types and the continuous index have not been officially updated since then. An update was announced for 2025 but has not yet been released.
 - **BBSR types are from 2024.** The Kreistyp classification uses the BBSR 2024 reference, which reflects the current district structure.
 - **Temporal mismatch between sources.** The Census population is from May 2022, the municipality boundaries (VG250) from January 2025, and the PLZ polygons from July 2023. Municipality mergers or boundary changes between these dates could cause small mismatches at the edges. In practice, this affects very few PLZ.
 - **Coordinate reference systems.** All spatial operations use EPSG:25832 (ETRS89 / UTM zone 32N). The Census grid is natively in EPSG:3035 (ETRS89-LAEA) and is reprojected. PLZ polygons are natively in EPSG:4326 (WGS84) and are reprojected.
+
+## Release notes
+
+### v2 (2026-04-16)
+
+**Full PLZ coverage.** The table now contains all 8,182 PLZ from plz-suche.csv, up from 8,140 in v1.
+
+The 1km Census grid missed 30 small inner-city PLZ (e.g. 80469 Munich, 12161 Berlin, 20253 Hamburg) where no grid cell midpoint fell inside the polygon. These are now recovered using a three-tier fallback:
+
+1. **1km grid** (primary): 8,140 PLZ
+2. **100m grid** (for small urban PLZ under ~2 km²): +23 PLZ, including major city neighborhoods like 80469 Munich (25,222 residents) and 12161 Berlin (16,640 residents)
+3. **Crosswalk proxy** (for PLZ without polygons or any grid match): +19 PLZ, including 4 Frankfurt skyscraper PLZ (Opernturm, FOUR, Omniturm), 12 dissolved Thuringian localities, and 3 other micro-areas. These receive correct district-level classifications but have `einwohner = 0`.
+
+Script 03 now loads the 100m grid (~3 million cells) automatically when needed. Script 05 handles zero-population PLZ without producing NaN values.
+
+### v1 (2026-04-16)
+
+Initial release. 8,140 PLZ with population from 1km Census grid, BBSR district types, and Thünen rurality index. Two classification methods (population-weighted and dominant municipality) with conflict flags.
