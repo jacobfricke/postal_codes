@@ -66,12 +66,14 @@ def main():
     idx_dominant = df.groupby("plz")["einwohner"].idxmax()
     dominant = df.loc[idx_dominant].copy()
     dominant["plz_einwohner"] = dominant["plz"].map(plz_totals.set_index("plz")["einwohner"])
-    dominant["dominante_gemeinde_anteil"] = dominant["einwohner"] / dominant["plz_einwohner"]
+    # For PLZ with 0 total population (fallback entries), set share to 1.0
+    dominant["dominante_gemeinde_anteil"] = dominant["einwohner"] / dominant["plz_einwohner"].replace(0, 1)
 
     # ----- Methode A: population-weighted Thünen index -----
     print("\n[3] Computing population-weighted Thünen index ...")
     df_with_total = df.merge(plz_totals[["plz", "einwohner"]], on="plz", suffixes=("", "_plz"))
-    df_with_total["weight"] = df_with_total["einwohner"] / df_with_total["einwohner_plz"]
+    # For PLZ with 0 total population, use equal weights
+    df_with_total["weight"] = df_with_total["einwohner"] / df_with_total["einwohner_plz"].replace(0, 1)
     df_with_total["weighted_index"] = df_with_total["weight"] * df_with_total["thuenen_index"]
     thuenen_weighted = df_with_total.groupby("plz")["weighted_index"].sum().reset_index()
     thuenen_weighted.columns = ["plz", "thuenen_index_gewichtet"]

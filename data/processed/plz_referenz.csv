@@ -342,6 +342,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 06567,9575,91.0429,4,Dünn besiedelter ländlicher Kreis,4,0.78,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16065003,Bad Frankenhausen/Kyffhäuser,1.0,1,1,False,False
 06571,7646,86.108541,4,Dünn besiedelter ländlicher Kreis,4,0.78,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16065087,Roßleben-Wiehe,0.9207428720899817,2,1,False,False
 06577,7109,114.056662,4,Dünn besiedelter ländlicher Kreis,4,0.78,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16065088,An der Schmücke,0.8629905753270503,3,1,False,False
+06578,0,0.0,4,Dünn besiedelter ländlicher Kreis,4,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16068001,Alperstedt,0.0,1,1,False,False
 06618,31346,178.520865,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.31000000000000005,4,eher ländlich / gute sozioökonomische Lage,4,15084355,Naumburg (Saale),0.8560262872455816,7,1,False,False
 06628,6291,72.301946,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.31,4,eher ländlich / gute sozioökonomische Lage,4,15084355,Naumburg (Saale),0.8303926243840407,2,1,False,False
 06632,7314,127.912456,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.3118813234891988,4,eher ländlich / gute sozioökonomische Lage,4,15084135,Freyburg (Unstrut),0.5920153130981679,5,2,False,False
@@ -395,6 +396,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 07318,29064,145.051781,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.52,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16073077,Saalfeld/Saale,0.9994150839526562,2,1,False,False
 07330,2746,74.099476,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.52,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16073067,Probstzella,0.9857975236707939,2,1,False,False
 07333,8365,63.386298,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.52,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16073111,Unterwellenborn,1.0,1,1,False,False
+07334,0,0.0,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16073001,Allendorf,0.0,1,1,False,False
 07338,5254,118.031975,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.52,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16073038,Kaulsdorf,0.4250095165588123,6,1,False,False
 07343,2921,72.955665,4,Dünn besiedelter ländlicher Kreis,4,0.74,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16075133,Wurzbach,1.0,1,1,False,False
 07349,1568,36.292466,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.52,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16073046,Lehesten,1.0,1,1,False,False
@@ -651,7 +653,9 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 10587,15421,1.457804,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10589,10585,1.826626,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10623,11752,1.175006,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
+10625,11139,0.632379,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10627,19060,0.722515,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
+10629,12329,0.640276,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10707,16313,0.855201,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10709,4646,0.978243,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10711,13438,1.049378,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
@@ -660,11 +664,14 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 10717,16436,0.822949,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10719,14918,0.879055,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10777,15552,0.691373,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
+10779,9421,0.519219,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10781,17720,0.711603,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10783,13709,0.636072,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10785,13498,3.05705,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10787,1800,1.446408,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
+10789,4511,0.448729,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10823,16925,0.496247,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
+10825,10661,0.69688,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10827,10731,0.867405,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10829,21712,2.625611,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 10961,12282,1.436641,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
@@ -679,6 +686,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 12047,22097,0.517082,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 12049,36792,1.16987,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 12051,30249,1.51962,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
+12053,15725,0.789719,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 12055,2480,0.863261,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 12057,9840,3.190786,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 12059,25484,1.215681,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
@@ -690,6 +698,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 12109,13387,2.995072,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 12157,27152,2.08057,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 12159,15629,1.006113,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
+12161,16640,0.967523,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 12163,12432,1.348528,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 12165,9778,0.941939,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
 12167,16994,1.649792,1,Kreisfreie Großstadt,1,-4.54,5,nicht ländlich,5,11000000,Berlin,1.0,1,1,False,False
@@ -1154,7 +1163,10 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 20149,5328,1.311007,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
 20249,7348,0.92713,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
 20251,23703,1.950684,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
+20253,17021,1.002431,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
 20255,38334,0.703132,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
+20257,14323,0.704028,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
+20259,13380,0.904718,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
 20354,629,1.285909,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
 20355,4370,1.116726,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
 20357,14315,1.192272,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
@@ -1944,6 +1956,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 27474,12860,7.087671,4,Dünn besiedelter ländlicher Kreis,4,0.74,1,sehr ländlich / weniger gute sozioökonomische Lage,1,03352011,Cuxhaven,1.0,1,1,False,False
 27476,8834,44.643605,4,Dünn besiedelter ländlicher Kreis,4,0.74,1,sehr ländlich / weniger gute sozioökonomische Lage,1,03352011,Cuxhaven,1.0,1,1,False,False
 27478,12142,98.721139,4,Dünn besiedelter ländlicher Kreis,4,0.7400000000000001,1,sehr ländlich / weniger gute sozioökonomische Lage,1,03352011,Cuxhaven,0.99868225992423,4,1,False,False
+27498,1409,1.72151,2,Städtischer Kreis,2,-0.51,5,nicht ländlich,5,01056025,Helgoland,1.0,1,1,False,False
 27499,18,7.62113,1,Kreisfreie Großstadt,1,-2.63,5,nicht ländlich,5,02000000,Hamburg,1.0,1,1,False,False
 27568,11653,10.309104,1,Kreisfreie Großstadt,1,-1.1827975628593494,5,nicht ländlich,5,04012000,Bremerhaven,0.9860121857032523,2,2,False,False
 27570,20734,4.933944,1,Kreisfreie Großstadt,1,-1.18,5,nicht ländlich,5,04012000,Bremerhaven,1.0,1,1,False,False
@@ -2148,6 +2161,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 30655,21159,4.442424,2,Städtischer Kreis,2,-0.4,5,nicht ländlich,5,03241001,Hannover,1.0,1,1,False,False
 30657,14024,12.801786,2,Städtischer Kreis,2,-0.4,5,nicht ländlich,5,03241001,Hannover,0.99343981745579,2,1,False,False
 30659,14959,11.254758,2,Städtischer Kreis,2,-0.4,5,nicht ländlich,5,03241001,Hannover,1.0,1,1,False,False
+30669,0,0.0,2,Städtischer Kreis,2,0.0,5,nicht ländlich,5,03241002,Barsinghausen,0.0,1,1,False,False
 30823,25732,12.529529,2,Städtischer Kreis,2,-0.4,5,nicht ländlich,5,03241005,Garbsen,1.0,1,1,False,False
 30826,16535,56.389788,2,Städtischer Kreis,2,-0.4,5,nicht ländlich,5,03241005,Garbsen,1.0,1,1,False,False
 30827,17612,10.610804,2,Städtischer Kreis,2,-0.4,5,nicht ländlich,5,03241005,Garbsen,1.0,1,1,False,False
@@ -2336,6 +2350,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 33189,10077,75.926863,2,Städtischer Kreis,2,0.23,4,eher ländlich / gute sozioökonomische Lage,4,05766064,Schlangen,1.0,1,1,False,False
 33330,27930,8.951761,2,Städtischer Kreis,2,0.09,3,eher ländlich / weniger gute sozioökonomische Lage,3,05754008,Gütersloh,1.0,1,1,False,False
 33332,26714,12.585426,2,Städtischer Kreis,2,0.09,3,eher ländlich / weniger gute sozioökonomische Lage,3,05754008,Gütersloh,1.0,1,1,False,False
+33333,3,0.413182,2,Städtischer Kreis,2,0.09,3,eher ländlich / weniger gute sozioökonomische Lage,3,05754008,Gütersloh,1.0,1,1,False,False
 33334,25005,67.517765,2,Städtischer Kreis,2,0.09,3,eher ländlich / weniger gute sozioökonomische Lage,3,05754008,Gütersloh,1.0,1,1,False,False
 33335,19077,22.596157,2,Städtischer Kreis,2,0.09,3,eher ländlich / weniger gute sozioökonomische Lage,3,05754008,Gütersloh,1.0,1,1,False,False
 33378,47643,86.652591,2,Städtischer Kreis,2,0.09,3,eher ländlich / weniger gute sozioökonomische Lage,3,05754028,Rheda-Wiedenbrück,0.9997901055768948,2,1,False,False
@@ -2913,6 +2928,8 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 39646,6710,94.454863,4,Dünn besiedelter ländlicher Kreis,4,0.74,1,sehr ländlich / weniger gute sozioökonomische Lage,1,15083411,Oebisfelde-Weferlingen,1.0,1,1,False,False
 39649,4004,149.139633,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.94,1,sehr ländlich / weniger gute sozioökonomische Lage,1,15081135,Gardelegen,1.0,1,1,False,False
 40210,7982,0.643137,1,Kreisfreie Großstadt,1,-3.09,5,nicht ländlich,5,05111000,Düsseldorf,1.0,1,1,False,False
+40211,11979,0.920626,1,Kreisfreie Großstadt,1,-3.09,5,nicht ländlich,5,05111000,Düsseldorf,1.0,1,1,False,False
+40212,492,0.428669,1,Kreisfreie Großstadt,1,-3.09,5,nicht ländlich,5,05111000,Düsseldorf,1.0,1,1,False,False
 40213,3514,1.192684,1,Kreisfreie Großstadt,1,-3.09,5,nicht ländlich,5,05111000,Düsseldorf,1.0,1,1,False,False
 40215,19303,0.793106,1,Kreisfreie Großstadt,1,-3.09,5,nicht ländlich,5,05111000,Düsseldorf,1.0,1,1,False,False
 40217,14024,0.766819,1,Kreisfreie Großstadt,1,-3.09,5,nicht ländlich,5,05111000,Düsseldorf,1.0,1,1,False,False
@@ -3006,6 +3023,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 41836,41246,61.205229,2,Städtischer Kreis,2,0.15,4,eher ländlich / gute sozioökonomische Lage,4,05370020,Hückelhoven,1.0,1,1,False,False
 41844,28209,84.302203,2,Städtischer Kreis,2,0.14509163742068135,4,eher ländlich / gute sozioökonomische Lage,4,05370040,Wegberg,0.9964195824027793,3,2,False,False
 41849,18959,42.443799,2,Städtischer Kreis,2,0.15,4,eher ländlich / gute sozioökonomische Lage,4,05370036,Wassenberg,1.0,1,1,False,False
+42103,6952,1.165518,1,Kreisfreie Großstadt,1,-2.35,5,nicht ländlich,5,05124000,Wuppertal,1.0,1,1,False,False
 42105,14274,1.262548,1,Kreisfreie Großstadt,1,-2.35,5,nicht ländlich,5,05124000,Wuppertal,1.0,1,1,False,False
 42107,8226,1.396109,1,Kreisfreie Großstadt,1,-2.35,5,nicht ländlich,5,05124000,Wuppertal,1.0,1,1,False,False
 42109,14104,4.210399,1,Kreisfreie Großstadt,1,-2.35,5,nicht ländlich,5,05124000,Wuppertal,1.0,1,1,False,False
@@ -4171,9 +4189,16 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 59955,12949,147.930602,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.7,1,sehr ländlich / weniger gute sozioökonomische Lage,1,05958048,Winterberg,1.0,1,1,False,False
 59964,7949,125.874923,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.7,1,sehr ländlich / weniger gute sozioökonomische Lage,1,05958028,Medebach,1.0,1,1,False,False
 59969,4600,65.301206,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.7,1,sehr ländlich / weniger gute sozioökonomische Lage,1,05958020,Hallenberg,1.0,1,1,False,False
+60306,0,0.0,1,Kreisfreie Großstadt,1,0.0,5,nicht ländlich,5,06412000,Frankfurt am Main,0.0,1,1,False,False
+60308,0,0.0,1,Kreisfreie Großstadt,1,0.0,5,nicht ländlich,5,06412000,Frankfurt am Main,0.0,1,1,False,False
+60310,43,0.007112,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
 60311,17982,0.992485,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
+60312,0,0.0,1,Kreisfreie Großstadt,1,0.0,5,nicht ländlich,5,06412000,Frankfurt am Main,0.0,1,1,False,False
+60313,4335,0.744784,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
 60314,8020,4.222877,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
+60315,0,0.0,1,Kreisfreie Großstadt,1,0.0,5,nicht ländlich,5,06412000,Frankfurt am Main,0.0,1,1,False,False
 60316,34771,1.233973,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
+60318,18566,1.050871,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
 60320,16740,2.998395,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
 60322,21367,1.352052,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
 60323,14644,1.568802,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
@@ -4198,6 +4223,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 60528,27405,17.967776,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
 60529,21277,13.302389,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
 60549,392,22.577977,1,Kreisfreie Großstadt,1,-2.7557142857142853,5,nicht ländlich,5,06412000,Frankfurt am Main,0.9693877551020408,2,2,False,False
+60594,16715,1.776045,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
 60596,18133,1.90039,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
 60598,16822,7.095087,1,Kreisfreie Großstadt,1,-2.82,5,nicht ländlich,5,06412000,Frankfurt am Main,1.0,1,1,False,False
 60599,35796,14.835177,1,Kreisfreie Großstadt,1,-2.8199776511342045,5,nicht ländlich,5,06412000,Frankfurt am Main,0.9998882556710247,2,2,False,False
@@ -4394,6 +4420,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 64720,15263,86.984523,2,Städtischer Kreis,2,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,06437011,Michelstadt,1.0,1,1,False,False
 64732,9357,46.618323,2,Städtischer Kreis,2,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,06437001,Bad König,0.9987175376723308,2,1,False,False
 64739,9872,30.244977,2,Städtischer Kreis,2,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,06437009,Höchst i.Odw.,1.0,1,1,False,False
+64743,0,0.0,2,Städtischer Kreis,2,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,06437001,Bad König,0.0,1,1,False,False
 64747,7143,30.970699,2,Städtischer Kreis,2,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,06437004,Breuberg,1.0,1,1,False,False
 64750,6433,35.407647,2,Städtischer Kreis,2,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,06437010,Lützelbach,1.0,1,1,False,False
 64753,3312,20.510865,2,Städtischer Kreis,2,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,06437005,Brombachtal,1.0,1,1,False,False
@@ -4409,6 +4436,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 64850,9397,32.129902,2,Städtischer Kreis,2,-0.17,3,eher ländlich / weniger gute sozioökonomische Lage,3,06432021,Schaafheim,1.0,1,1,False,False
 64853,6852,41.910071,2,Städtischer Kreis,2,-0.17,3,eher ländlich / weniger gute sozioökonomische Lage,3,06432017,Otzberg,1.0,1,1,False,False
 64859,6341,13.099064,2,Städtischer Kreis,2,-0.17,3,eher ländlich / weniger gute sozioökonomische Lage,3,06432005,Eppertshausen,1.0,1,1,False,False
+65183,14859,0.908634,1,Kreisfreie Großstadt,1,-1.64,5,nicht ländlich,5,06414000,Wiesbaden,1.0,1,1,False,False
 65185,26141,1.240434,1,Kreisfreie Großstadt,1,-1.64,5,nicht ländlich,5,06414000,Wiesbaden,1.0,1,1,False,False
 65187,17508,5.345827,1,Kreisfreie Großstadt,1,-1.64,5,nicht ländlich,5,06414000,Wiesbaden,1.0,1,1,False,False
 65189,18622,5.681095,1,Kreisfreie Großstadt,1,-1.64,5,nicht ländlich,5,06414000,Wiesbaden,1.0,1,1,False,False
@@ -5839,6 +5867,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 80336,17127,1.568529,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
 80337,15966,1.046991,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
 80339,17330,1.998925,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
+80469,25222,1.223598,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
 80538,7561,2.142386,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
 80539,4700,0.833153,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
 80634,7129,1.273151,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
@@ -5853,6 +5882,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 80797,5611,1.823391,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
 80798,22773,0.487418,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
 80799,15293,0.672546,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
+80801,9323,0.46985,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
 80802,8134,1.491727,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
 80803,20459,0.526172,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
 80804,20748,1.666769,1,Kreisfreie Großstadt,1,-3.77,5,nicht ländlich,5,09162000,München,1.0,1,1,False,False
@@ -5996,6 +6026,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 82447,310,3.473107,4,Dünn besiedelter ländlicher Kreis,4,0.05,3,eher ländlich / weniger gute sozioökonomische Lage,3,09180133,Spatzenhausen,1.0,1,1,False,False
 82449,2882,42.603566,4,Dünn besiedelter ländlicher Kreis,4,0.05,3,eher ländlich / weniger gute sozioökonomische Lage,3,09180134,Uffing a.Staffelsee,1.0,1,1,False,False
 82467,27305,282.576107,4,Dünn besiedelter ländlicher Kreis,4,0.05,3,eher ländlich / weniger gute sozioökonomische Lage,3,09180117,Garmisch-Partenkirchen,0.998022340230727,2,1,False,False
+82475,0,0.0,4,Dünn besiedelter ländlicher Kreis,4,0.0,3,eher ländlich / weniger gute sozioökonomische Lage,3,09180113,Bad Bayersoien,0.0,1,1,False,False
 82481,7343,132.797657,4,Dünn besiedelter ländlicher Kreis,4,0.05,3,eher ländlich / weniger gute sozioökonomische Lage,3,09180123,Mittenwald,1.0,1,1,False,False
 82487,5320,30.019398,4,Dünn besiedelter ländlicher Kreis,4,0.05,3,eher ländlich / weniger gute sozioökonomische Lage,3,09180125,Oberammergau,1.0,1,1,False,False
 82488,577,14.850068,4,Dünn besiedelter ländlicher Kreis,4,0.05,3,eher ländlich / weniger gute sozioökonomische Lage,3,09180115,Ettal,1.0,1,1,False,False
@@ -6963,6 +6994,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 89619,794,8.816878,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.71,2,sehr ländlich / gute sozioökonomische Lage,2,08425124,Unterstadion,1.0,1,1,False,False
 90402,4523,1.856388,1,Kreisfreie Großstadt,1,-2.22,5,nicht ländlich,5,09564000,Nürnberg,1.0,1,1,False,False
 90403,8592,1.047001,1,Kreisfreie Großstadt,1,-2.22,5,nicht ländlich,5,09564000,Nürnberg,1.0,1,1,False,False
+90408,15791,1.343235,1,Kreisfreie Großstadt,1,-2.22,5,nicht ländlich,5,09564000,Nürnberg,1.0,1,1,False,False
 90409,15215,1.565496,1,Kreisfreie Großstadt,1,-2.22,5,nicht ländlich,5,09564000,Nürnberg,1.0,1,1,False,False
 90411,18586,13.299218,1,Kreisfreie Großstadt,1,-2.22,5,nicht ländlich,5,09564000,Nürnberg,1.0,1,1,False,False
 90419,36532,2.581291,1,Kreisfreie Großstadt,1,-2.22,5,nicht ländlich,5,09564000,Nürnberg,1.0,1,1,False,False
@@ -7801,6 +7833,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 96523,3823,25.868893,4,Dünn besiedelter ländlicher Kreis,4,0.53,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16072019,Steinach,1.0,1,1,False,False
 96524,8578,98.147017,4,Dünn besiedelter ländlicher Kreis,4,0.5313861039869434,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16072024,Föritztal,0.9949871764980182,3,2,False,False
 96528,8662,104.713589,4,Dünn besiedelter ländlicher Kreis,4,0.53,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16072023,Frankenblick,0.641884091433849,2,1,False,False
+96529,0,0.0,4,Dünn besiedelter ländlicher Kreis,4,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16072024,Föritztal,0.0,1,1,False,False
 97070,5971,2.211778,1,Kreisfreie Großstadt,1,-0.99,5,nicht ländlich,5,09663000,Würzburg,1.0,1,1,False,False
 97072,15133,1.598911,1,Kreisfreie Großstadt,1,-0.99,5,nicht ländlich,5,09663000,Würzburg,1.0,1,1,False,False
 97074,22379,8.064773,1,Kreisfreie Großstadt,1,-0.8532150676973949,5,nicht ländlich,5,09663000,Würzburg,0.9180928549086197,2,2,False,False
@@ -8027,6 +8060,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 98544,12410,52.906248,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.62,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066092,Zella-Mehlis,1.0,1,1,False,False
 98547,2595,55.045964,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.62,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066065,Schwarza,0.44084778420038534,3,1,False,False
 98553,10966,137.90778,4,Dünn besiedelter ländlicher Kreis,4,0.919882363669524,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16069043,Schleusingen,0.9593288345796097,5,2,False,False
+98554,0,0.0,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066005,Belrieth,0.0,1,1,False,False
 98559,1435,23.496412,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.62,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066047,Oberhof,1.0,1,1,False,False
 98574,18947,105.39747,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.62,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066063,Schmalkalden,0.9993138755475801,2,1,False,False
 98587,9373,76.648156,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.62,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066069,Steinbach-Hallenberg,1.0,1,1,False,False
@@ -8034,6 +8068,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 98593,5729,68.626964,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.62,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066023,Floh-Seligenthal,1.0,1,1,False,False
 98596,5850,49.640001,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.62,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066074,Brotterode-Trusetal,1.0,1,1,False,False
 98597,6466,63.21422,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.6199999999999999,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066013,Breitungen/Werra,0.6840395917104856,2,1,False,False
+98599,0,0.0,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066005,Belrieth,0.0,1,1,False,False
 98617,32839,289.258294,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.62,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066042,Meiningen,0.7452114863424587,12,1,False,False
 98630,6584,122.520015,4,Dünn besiedelter ländlicher Kreis,4,0.92,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16069062,Römhild,1.0,1,1,False,False
 98631,5619,121.076305,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.62,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16066094,Grabfeld,1.0,1,1,False,False
@@ -8046,11 +8081,17 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 98667,2129,51.523757,4,Dünn besiedelter ländlicher Kreis,4,0.92,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16069042,Schleusegrund,1.0,1,1,False,False
 98669,2715,31.216869,4,Dünn besiedelter ländlicher Kreis,4,0.92,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16069053,Veilsdorf,1.0,1,1,False,False
 98673,10722,130.616318,4,Dünn besiedelter ländlicher Kreis,4,0.92,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16069012,Eisfeld,0.685319903003171,3,1,False,False
+98678,0,0.0,4,Dünn besiedelter ländlicher Kreis,4,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16069001,Ahlstädt,0.0,1,1,False,False
 98693,32584,126.804959,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.48999999999999994,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16070029,Ilmenau,0.9760311809477044,2,1,False,False
 98694,6727,80.375011,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.49,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16070029,Ilmenau,1.0,1,1,False,False
 98701,6174,80.034301,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.49,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16070058,Großbreitenbach,1.0,1,1,False,False
+98704,0,0.0,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16070001,Alkersleben,0.0,1,1,False,False
+98708,0,0.0,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16070001,Alkersleben,0.0,1,1,False,False
+98711,0,0.0,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16070001,Alkersleben,0.0,1,1,False,False
+98714,0,0.0,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16070001,Alkersleben,0.0,1,1,False,False
 98716,1009,9.819385,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.49,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16070011,Elgersburg,1.0,1,1,False,False
 98724,11858,127.260228,4,Dünn besiedelter ländlicher Kreis,4,0.53,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16072013,Neuhaus am Rennweg,0.7564513408669253,2,1,False,False
+98739,0,0.0,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16073001,Allendorf,0.0,1,1,False,False
 98743,1868,35.300276,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.52,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16073028,Gräfenthal,1.0,1,1,False,False
 98744,5703,70.966672,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.52,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16073113,Schwarzatal,0.6079256531650009,5,1,False,False
 98746,1487,49.784796,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.5215601882985879,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16073037,Katzhütte,0.843981170141224,2,2,False,False
@@ -8107,6 +8148,7 @@ plz,einwohner,flaeche_km2,bbsr_kreistyp_dominant,bbsr_kreistyp_dominant_label,bb
 99752,10936,129.149991,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16062066,Bleicherode,0.9102962692026335,3,1,False,False
 99755,7036,130.228876,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16062005,Ellrich,0.7083570210346788,2,1,False,False
 99759,4452,54.047355,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16062049,Sollstedt,0.6504941599281222,3,1,False,False
+99762,0,0.0,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.0,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16062066,Bleicherode,0.0,1,1,False,False
 99765,6558,100.196358,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16062064,Heringen/Helme,0.7081427264409881,3,1,False,False
 99768,7505,109.502712,3,Ländlicher Kreis mit Verdichtungsansätzen,3,0.54,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16062065,Harztor,1.0,1,1,False,False
 99817,39809,103.956915,4,Dünn besiedelter ländlicher Kreis,4,0.56,1,sehr ländlich / weniger gute sozioökonomische Lage,1,16063105,Eisenach,1.0,1,1,False,False
